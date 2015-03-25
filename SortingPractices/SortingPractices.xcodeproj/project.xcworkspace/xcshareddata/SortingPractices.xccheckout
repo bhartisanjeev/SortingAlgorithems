@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D56219D-3BE1-4F5E-A5A5-AA42EEDA18E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SortingPractices</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D8FDD70856A7471618B7004565DE3B090FFC0EF</key>
+		<string>https://github.com/bhartisanjeev/SortingAlgorithems.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SortingPractices/SortingPractices.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D8FDD70856A7471618B7004565DE3B090FFC0EF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bhartisanjeev/SortingAlgorithems.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D8FDD70856A7471618B7004565DE3B090FFC0EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D8FDD70856A7471618B7004565DE3B090FFC0EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SortingAlgorithems</string>
+		</dict>
+	</array>
+</dict>
+</plist>
