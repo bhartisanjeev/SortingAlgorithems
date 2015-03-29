@@ -8,10 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController 
+@interface ViewController : UIViewController {
+    
+    NSMutableArray *arrListOfElementsToSort ;
+    
+}
 
+// methods
+- (IBAction)currentSorting:(UIButton *)sender ;
 
 - (void)performSelectionSortOnArray:(NSMutableArray *)listOfElements ;
+- (void)sortArray:(NSMutableArray *)elementsList withStart:(NSInteger)start andEnd:(NSInteger)end ;
 
 @end
 
